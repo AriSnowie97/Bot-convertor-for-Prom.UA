@@ -16,7 +16,7 @@ import xml.etree.ElementTree as ET
 # =============================
 # ⚙️ Настройки
 # =============================
-TOKEN = os.getenv("TELEGRAM_TOKEN", "8437309662:AAEpCVFP75iE23G725ydP-L_PtZRjhWC9ws")
+TOKEN = os.getenv("TELEGRAM_TOKEN", "PASTE_TOKEN_HERE")
 CURRENCY = "UAH"
 
 # Маппинг колонок (все в lower-case)
